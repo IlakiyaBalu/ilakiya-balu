@@ -1,0 +1,15 @@
+body {
+	background-color: white;
+
+}
+
+.header a {
+	text-decoration: none;
+	padding: 8px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	float: right;
+	font-size: 15px;
+	font-weight: normal;
+	color: white;
+}
